@@ -1,0 +1,9 @@
+
+{
+    "name": "app-flix",
+    "version": "1.0.0",
+    "author": "Pedro Henrique",
+    "dependencies": {
+        "serverless-python-requirements": "^5.0.1"
+    }
+}

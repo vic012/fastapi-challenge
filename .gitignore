@@ -1,0 +1,5 @@
+sql_app.db
+*.sql_app.db
+serverless.yaml
+/node_modules
+/.serverless
